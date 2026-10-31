@@ -1,0 +1,7 @@
+### /server-variables-path
+## Add as many as you need
+### Servers / IP address
+
+server0="192.168.1.10"
+server1="192.168.1.11"
+server2="192.168.1.12"
